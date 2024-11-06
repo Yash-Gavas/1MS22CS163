@@ -5,7 +5,8 @@
 ✉ yash.s.gavas@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/Yash-Gavas)
 
-![Yash Gavas]((https://github.com/Yash-Gavas/1MS22CS163/blob/main/yash.jpeg?raw=true))  <!-- This is your image -->
+![yash](https://github.com/user-attachments/assets/6ed9246e-f051-4223-8208-a8711ece1235)
+
 
 ---
 
