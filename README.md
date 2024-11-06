@@ -5,7 +5,7 @@
 ✉ yash.s.gavas@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/Yash-Gavas)
 
-![Yash Gavas](home/guest1/Downloads/yash.jpeg)  <!-- This is your image -->
+![Yash Gavas](home/Downloads/yash.jpeg)  <!-- This is your image -->
 
 ---
 
